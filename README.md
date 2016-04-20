@@ -1,5 +1,5 @@
 # Design Patterns Reloaded
-The idea of this implementation comes from a very interesting [talk by Remi Forax](https://github.com/forax/design-pattern-reloaded/) which he has given [at ParisJUG in June 2015](http://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20150602) and [at Devoxx in November 2015)(http://cfp.devoxx.be/2015/talk/KSD-8798/Design_Pattern_Reloaded).
+The idea of this implementation comes from a very interesting [talk by Remi Forax](https://github.com/forax/design-pattern-reloaded/) which he has given [at ParisJUG in June 2015](http://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20150602) and [at Devoxx in November 2015](http://cfp.devoxx.be/2015/talk/KSD-8798/Design_Pattern_Reloaded).
 See also the corresponding [slides](https://speakerdeck.com/forax/design-pattern-reloaded-parisjug) or the complete [Devoxx session on YouTube](https://www.youtube.com/watch?v=-k2X7guaArU).
 
 I couldn't resist to work with the examples myself. But because there is already [the original implementation in Java 8](https://github.com/forax/design-pattern-reloaded/) and a port in [Scala](https://github.com/YannMoisan/design-pattern-reloaded) I started another experiment to port all the examples to .NET (C#). 
